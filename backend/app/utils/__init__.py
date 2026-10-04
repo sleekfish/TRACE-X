@@ -1,0 +1,1 @@
+"""Reusable utilities: hashing, file detection, subprocess, timestamps."""
